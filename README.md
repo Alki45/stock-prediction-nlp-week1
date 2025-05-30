@@ -24,8 +24,8 @@ To explore and uncover actionable insights for stock price forecasting through:
 
 ## ✅ Tasks Completed
 
-- [ ] Data collection and preprocessing  
-- [ ] Sentiment scoring of news headlines  
+- [x] Data collection and preprocessing  
+- [x] Sentiment scoring of news headlines  
 - [ ] Correlation analysis between sentiment and stock returns  
 - [ ] Feature engineering for predictive modeling  
 
